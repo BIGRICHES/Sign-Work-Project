@@ -1,6 +1,6 @@
 # Sign-Work-Project
 
-Web map to visualize Montgomery Sign Crew work.
+A demo web map to visualize Montgomery Sign Crew work.
 
 by Ethan Arnold 
 
